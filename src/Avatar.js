@@ -78,6 +78,7 @@ const Image = styled.div`
 const Initial = styled.div`
   color: ${color.lightest};
   text-align: center;
+  font-family: inherit;
 
   font-size: ${typography.size.s2}px;
   line-height: ${sizes.medium}px;
